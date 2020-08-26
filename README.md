@@ -2,7 +2,7 @@
 由于淘宝数据库月报太难根据标题查找，该项目通过 python 构建一个 web 服务，访问该服务可以直接查看所有的月报标题
 
 ## how to build
-first install python and virtualenv.  
+first install python and virtualenv.[pyenv、pipenv、virtualenv.md](pyenv、pipenv、virtualenv.md)  
 then create a new environment to run this project, use :  
 ```
 cd environment_path
